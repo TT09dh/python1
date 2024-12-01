@@ -1,6 +1,6 @@
 from random import randint
 random_min = 0
-random_max = 100
+random_max = 1000
 truy = 10
 rd = randint(random_min , random_max)
 
